@@ -1,0 +1,5 @@
+#Pycharm
+.idea/
+
+# Dev artifacts
+node_modules/
